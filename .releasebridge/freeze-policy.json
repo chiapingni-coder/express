@@ -1,0 +1,11 @@
+{
+  "schema": "RELEASEBRIDGE_PR_FREEZE_POLICY_V1",
+  "repo": "chiapingni-coder/express",
+  "base_ref": "rb-express-fix-baseline",
+  "protected_paths": [
+    {
+      "path": "lib/router/route.js",
+      "blob": "a65756d6de6f34ae4b2f799cc33a07d589a2e464"
+    }
+  ]
+}
